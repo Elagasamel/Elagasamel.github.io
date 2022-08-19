@@ -1,7 +1,6 @@
-Merci d'avoir consulter mon protfolio :)
+Merci d'avoir consulter mon protfolio.
 
-ici le lien ========================>  https://meriembader.github.io/portfolio/
+ici le lien ========================>  https://elagasamel.github.io/
 
-Pour toute information, merci de me contacter: meriem.bader1@esprit.tn
+Pour toute information, merci de me contacter: lagas.amel@gmail.com
 
-Meriem BADER <3
