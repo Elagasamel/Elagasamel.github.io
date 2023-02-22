@@ -63,18 +63,27 @@
             </ul>
 
             <p>
-              L’objectif de ce projet est la mise en place
-
-d’une solution VoIP open source sécurisée. C’est la raison de pourquoi, nous avons utilisé Aste-
-risk qui possède des fonctionnalités puissantes lui permettent de s’imposer dans l’avenir. Nous
-
-avons entamé ce rapport par une étude approfondie de projet, ensuite une analyse des besoins
-
-et une étude conceptuelle seront détaillés, puis nous avons détaillé l’étude théorique de techno-
-logies VoIP pour mieux comprendre ses protocoles et ses fonctionnements. L’implémention d’un
-
-réseau privé virtuel sert donc à sécurisé ce réseau, enfin nous allons développer une application
+    
+              Après avoir détecté les problématiques au niveau de la section précédente, la solution que
+nous proposons pour résoudre ces insuffisances est la mise en place d’une solution VoIP à base
+d’Asterisk avec la mise en place de la notion du VPN. En fait, un VPN est un réseau privé virtuel, Il offre les mêmes avantages qu’un LAN permettant à des clients situés n’importe où dans
+le monde d’être connecté sur le réseau local, le tout en passant par un canal de communication
+super sécurisé.
+Pour faciliter la gestion du serveur nous avons proposer de faire une application qui permet de
+gérer les administrateurs de l’application, afficher les traces d’appels et gérer les clients sans
+passer par la configuration des fichiers de serveur asterisk afin de résoudre les problèmes de
+complexités des fichiers de configuration textuels vu le volume énorme des appels.
+La solution qu’utilise Comunik CRM aujourd’hui est le NAT des ports et les redirections de
+ports à la demande.
+En effet,certains clients (Orange Tunisie , ATI, Tunisie Télécom...) évitent de laisser des ports
+ouverts dans leurs machines puisque ces ports peuvent être une source d’attaques.
+Face à ces problèmes, l’amélioration des services de CMK et la réponse cohérente aux besoins
+du client qui changent avec le temps, sont notre point de base pour le choix d’établir un VPN
+comme une solution sécurisée pour que l’entreprise. Cette dernière peut accéder à leurs clients
+à tout moments afin d’assurer l’échange des données et de garantir encore plusieurs autres services tels que le service de support, service après vente.
+ L’objectif de ce projet est la mise en place d’une solution VoIP open source sécurisée. C’est la raison de pourquoi, nous avons utilisé Asterisk qui possède des fonctionnalités puissantes lui permettent de s’imposer dans l’avenir. . L’implémention d’un réseau privé virtuel sert donc à sécurisé ce réseau, enfin nous allons développer une application
 pour faciliter la gestion d’asterisk.
+              
             </p>
           </div>
 
