@@ -1,16 +1,16 @@
-# 🎨 Bienvenue sur mon Portfolio !  
+# 🎨 Welcome to My Portfolio!  
 
-Merci d'avoir pris le temps de visiter mon portfolio. Vous y trouverez un aperçu de mes compétences, projets et expériences professionnelles.  
+Thank you for taking the time to visit my portfolio. Here, you’ll find an overview of my skills, projects, and professional experiences.  
 
-🌍 **Accédez à mon portfolio ici** 👉 [elagasamel.github.io](https://elagasamel.github.io/)  
+🌍 **Check out my portfolio here** 👉 [elagasamel.github.io](https://elagasamel.github.io/)  
 
-📩 **Me contacter**  
-Si vous souhaitez échanger, collaborer ou en savoir plus sur mon travail, n'hésitez pas à me contacter :  
-📧 **Email** : lagas.amel@gmail.com  
+📩 **Get in Touch**  
+If you’d like to collaborate, discuss opportunities, or learn more about my work, feel free to reach out:  
+📧 **Email**: lagas.amel@gmail.com  
 
-💡 **À propos de moi**  
-Je suis passionnée par le CloudOps, le DevOps et l'optimisation des infrastructures. Mon objectif est de créer des solutions performantes et évolutives tout en adoptant les meilleures pratiques.  
+💡 **About Me**  
+I am passionate about CloudOps, DevOps, and infrastructure optimization. My goal is to build scalable and high-performance solutions while following industry best practices.  
 
-Merci encore pour votre visite et à bientôt ! 🚀  
+Thanks again for visiting, and see you soon! 🚀  
 
 **Amel ELAGAS** ❤️  
